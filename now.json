@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-  	{"src": "/(.*)","dest": "https://loot-link.softr.app/$1"}
+  	{"src": "/(.*)","dest": "https://golden-bienenstitch-ba0368.netlify.app/$1"}
   ]
 }
