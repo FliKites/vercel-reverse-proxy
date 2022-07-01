@@ -3,4 +3,5 @@
   "routes": [
   	{"src": "/(.*)","dest": "https://golden-bienenstitch-ba0368.netlify.app/$1"}
   ]
+  "cleanUrls": true
 }
