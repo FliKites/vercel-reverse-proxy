@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://10f5d7-3.myshopify.com/$1"
+      "destination": "https://shop.lofize.com/$1"
     }
   ]
 }
