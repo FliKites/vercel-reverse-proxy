@@ -1,9 +1,6 @@
 {
   "version": 2,
   "routes": [
-    {
-      "source": "/(.*)",
-      "destination": "https://shop.lofize.com/$1"
-    }
+  	{"src": "/(.*)","dest": "https://shop.lofize.com/$1"}
   ]
 }
