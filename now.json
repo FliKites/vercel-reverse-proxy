@@ -2,6 +2,5 @@
   "version": 2,
   "routes": [
     {"src": "/(.*)","dest": "https://10f5d7-3.myshopify.com/$1"}
-  ],
-  "cleanUrls": true
+  ]
 }
